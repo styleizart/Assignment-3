@@ -1,0 +1,199 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.top{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background: #2d3e50;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+
+.logo{
+	margin: 0;
+	padding: 0;
+	width: 40%;
+	float: left;
+	box-sizing: border-box;
+	color: #fbfefb;
+	font-family: sans-serif;
+	padding-left: 50px;
+}
+
+.menu{
+	margin: 0;
+	padding: 0;
+	width: 30%;
+	float: right;
+	box-sizing: border-box;
+	color: #fbfefb;
+	font-family: sans-serif;
+}
+
+.menu ul{
+	list-style: none;
+}
+
+.menu ul li{
+	display: inline-block;
+	padding-left: 30px;
+	padding-top: 15px;
+}
+
+.slide{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background: #18bb9c;
+	text-align: center;
+	height: 75vh;
+}
+
+.slide h1{
+	color: #fbfefb;
+	font-family: sans-serif;
+}
+
+.slide h4{
+	color: #fbfefb;
+	font-family: sans-serif;
+}
+
+.mid{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+}
+
+.mid h1{
+	color: #364b60;
+	font-family: sans-serif;
+	padding-top: 40px;
+}
+
+.a{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.a img{
+	padding-left: 30px;
+}
+
+.b{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.b img{
+	padding-left: 30px;
+}
+
+.mid2{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background: #18bb9e;
+	text-align: center;
+	height: 60vh;
+}
+
+.mid2 h1{
+	color: white;
+	font-family: sans-serif;
+	padding-top: 70px;
+}
+
+.mid2 p{
+	color: white;
+	font-family: sans-serif;
+	column-count: 2;
+}
+
+button{
+	color: white;
+	background: #18bb9e;
+	font-family: sans-serif;
+	padding: 15px;
+	box-sizing: border-box;
+}
+
+.contact{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.contact h1{
+	color: #35485e;
+	font-family: sans-serif;
+	padding-top: 60px;
+}
+
+.contact form input{
+	margin: 0;
+	padding: 0;
+	border: none;
+	height: 50px;
+	width: 700px;
+	text-align: left;
+}
+
+.c{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background: #2d3e50;
+	text-align: center;
+	display: inline-block;
+}
+.x{
+	display: inline-block;
+	width: 30%;
+}
+.y{
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+}
+.z{
+	display: inline-block;
+	width: 30%;
+
+}
+.x h3{
+	color: white;
+	font-family: sans-serif;
+}
+.x h4{
+	color: white;
+	font-family: sans-serif;
+}
+
+.y{
+	color: white;
+	font-family: sans-serif;
+}
+
+.z{
+	color: white;
+	font-family: sans-serif;
+}
+
+.d{
+	background: #243141;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
